@@ -1182,7 +1182,7 @@ layout: center
       Alle Bilder in dieser Präsentation wurden generiert mit:
     </div>
     <div class="text-4xl font-bold mt-6 bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">
-      <a href="https://gemini.google/overview/image-generation/">Google Neo Banana</a>
+      <a href="https://gemini.google/overview/image-generation/">Google Nano Banana</a>
     </div>
     <div class="mt-8 text-gray-500 italic text-lg">
       (Ausnahme: Cover des Buches "Das Sams")
