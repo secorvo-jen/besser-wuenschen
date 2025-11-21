@@ -1185,7 +1185,7 @@ layout: center
       <a href="https://gemini.google/overview/image-generation/">Google Nano Banana</a>
     </div>
     <div class="mt-8 text-gray-500 italic text-lg">
-      (Ausnahme: Cover des Buches "Das Sams")
+      (Ausnahme: Cover des Buches "Das Sams" und Screenshots)
     </div>
   </div>
 </div>
