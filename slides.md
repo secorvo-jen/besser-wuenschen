@@ -1144,6 +1144,9 @@ title: Weiterführende Quellen
 - **[Prompt Engineering Guide](https://www.promptingguide.ai/)**
   <br><span class="text-sm opacity-70 italic">"Die Bibel. Trocken wie Knäckebrot, aber extrem nahrhaft."</span>
 
+- **[Anthropic - Prompt engineering overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)**
+<br><span class="text-sm opacity-70 italic">"Wer hat's erfunden?"</span>
+
 </div>
 <div>
 
